@@ -1,0 +1,326 @@
+# depslib dependency file v1.0
+1702149453 source:c:\users\irvna\onedrive\Área de trabalho\uems\pc1\campeonato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"camp_structs.h"
+	"declarar_funcoes.h"
+
+1702141128 c:\users\irvna\onedrive\Área de trabalho\uems\pc1\campeonato\camp_structs.h
+
+1702141129 c:\users\irvna\onedrive\Área de trabalho\uems\pc1\campeonato\declarar_funcoes.h
+	"camp_structs.h"
+
+1702141128 source:c:\users\irvna\onedrive\Área de trabalho\uems\pc1\campeonato\campeonato.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702141130 source:c:\users\irvna\onedrive\Área de trabalho\uems\pc1\campeonato\jogadores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702141132 source:c:\users\irvna\onedrive\Área de trabalho\uems\pc1\campeonato\menu.c
+	<stdio.h>
+	"camp_structs.h"
+
+1702148808 source:c:\users\irvna\onedrive\Área de trabalho\uems\pc1\campeonato\menu_op1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702148307 source:c:\users\irvna\onedrive\Área de trabalho\uems\pc1\campeonato\menu_op2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702149774 source:c:\users\irvna\onedrive\Área de trabalho\uems\pc1\campeonato\menu_op3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702149541 source:c:\users\irvna\onedrive\Área de trabalho\uems\pc1\campeonato\menu_op4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702149175 source:c:\users\irvna\onedrive\Área de trabalho\uems\pc1\campeonato\menu_op5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702141138 source:c:\users\irvna\onedrive\Área de trabalho\uems\pc1\campeonato\times.c
+	"camp_structs.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1702141128 source:c:\users\joaop\onedrive\documentos\trabf\campeonato.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702141128 c:\users\joaop\onedrive\documentos\trabf\camp_structs.h
+
+1702159801 source:c:\users\joaop\onedrive\documentos\trabf\jogadores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702149453 source:c:\users\joaop\onedrive\documentos\trabf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"camp_structs.h"
+	"declarar_funcoes.h"
+
+1702159095 c:\users\joaop\onedrive\documentos\trabf\declarar_funcoes.h
+	"camp_structs.h"
+
+1702162669 source:c:\users\joaop\onedrive\documentos\trabf\menu.c
+	<stdio.h>
+	"camp_structs.h"
+
+1702162517 source:c:\users\joaop\onedrive\documentos\trabf\menu_op1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702162914 source:c:\users\joaop\onedrive\documentos\trabf\menu_op2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702162229 source:c:\users\joaop\onedrive\documentos\trabf\menu_op3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702149541 source:c:\users\joaop\onedrive\documentos\trabf\menu_op4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702162564 source:c:\users\joaop\onedrive\documentos\trabf\menu_op5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702151041 source:c:\users\joaop\onedrive\documentos\trabf\times.c
+	"camp_structs.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1702250572 source:c:\users\joaop\onedrive\documentos\campeonato\campeonato.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702250572 c:\users\joaop\onedrive\documentos\campeonato\camp_structs.h
+
+1702250769 source:c:\users\joaop\onedrive\documentos\campeonato\jogadores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702246245 source:c:\users\joaop\onedrive\documentos\campeonato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"camp_structs.h"
+	"declarar_funcoes.h"
+
+1702159095 c:\users\joaop\onedrive\documentos\campeonato\declarar_funcoes.h
+	"camp_structs.h"
+
+1702249510 source:c:\users\joaop\onedrive\documentos\campeonato\menu.c
+	<stdio.h>
+	"camp_structs.h"
+
+1702251799 source:c:\users\joaop\onedrive\documentos\campeonato\menu_op1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702249510 source:c:\users\joaop\onedrive\documentos\campeonato\menu_op2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702249510 source:c:\users\joaop\onedrive\documentos\campeonato\menu_op3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702246677 source:c:\users\joaop\onedrive\documentos\campeonato\menu_op4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702251150 source:c:\users\joaop\onedrive\documentos\campeonato\menu_op5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702250572 source:c:\users\joaop\onedrive\documentos\campeonato\times.c
+	"camp_structs.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1702250574 source:c:\users\aurea\onedrive\faculdade\pci - programação i\campeonato\campeonato.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702250574 c:\users\aurea\onedrive\faculdade\pci - programação i\campeonato\camp_structs.h
+
+1702250770 source:c:\users\aurea\onedrive\faculdade\pci - programação i\campeonato\jogadores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702246246 source:c:\users\aurea\onedrive\faculdade\pci - programação i\campeonato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"camp_structs.h"
+	"declarar_funcoes.h"
+
+1702159096 c:\users\aurea\onedrive\faculdade\pci - programação i\campeonato\declarar_funcoes.h
+	"camp_structs.h"
+
+1702249512 source:c:\users\aurea\onedrive\faculdade\pci - programação i\campeonato\menu.c
+	<stdio.h>
+	"camp_structs.h"
+
+1702326199 source:c:\users\aurea\onedrive\faculdade\pci - programação i\campeonato\menu_op1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702249512 source:c:\users\aurea\onedrive\faculdade\pci - programação i\campeonato\menu_op2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702323017 source:c:\users\aurea\onedrive\faculdade\pci - programação i\campeonato\menu_op3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702251928 source:c:\users\aurea\onedrive\faculdade\pci - programação i\campeonato\menu_op4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702251152 source:c:\users\aurea\onedrive\faculdade\pci - programação i\campeonato\menu_op5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702250574 source:c:\users\aurea\onedrive\faculdade\pci - programação i\campeonato\times.c
+	"camp_structs.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1702250574 source:c:\users\anton\onedrive\faculdade\faculdade\série 1 - 2023\pci - programação i\campeonato\campeonato.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702250574 c:\users\anton\onedrive\faculdade\faculdade\série 1 - 2023\pci - programação i\campeonato\camp_structs.h
+
+1702250770 source:c:\users\anton\onedrive\faculdade\faculdade\série 1 - 2023\pci - programação i\campeonato\jogadores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702246246 source:c:\users\anton\onedrive\faculdade\faculdade\série 1 - 2023\pci - programação i\campeonato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"camp_structs.h"
+	"declarar_funcoes.h"
+
+1702159096 c:\users\anton\onedrive\faculdade\faculdade\série 1 - 2023\pci - programação i\campeonato\declarar_funcoes.h
+	"camp_structs.h"
+
+1702249512 source:c:\users\anton\onedrive\faculdade\faculdade\série 1 - 2023\pci - programação i\campeonato\menu.c
+	<stdio.h>
+	"camp_structs.h"
+
+1702326459 source:c:\users\anton\onedrive\faculdade\faculdade\série 1 - 2023\pci - programação i\campeonato\menu_op1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702249512 source:c:\users\anton\onedrive\faculdade\faculdade\série 1 - 2023\pci - programação i\campeonato\menu_op2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702323017 source:c:\users\anton\onedrive\faculdade\faculdade\série 1 - 2023\pci - programação i\campeonato\menu_op3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702251928 source:c:\users\anton\onedrive\faculdade\faculdade\série 1 - 2023\pci - programação i\campeonato\menu_op4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702251152 source:c:\users\anton\onedrive\faculdade\faculdade\série 1 - 2023\pci - programação i\campeonato\menu_op5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"camp_structs.h"
+
+1702250574 source:c:\users\anton\onedrive\faculdade\faculdade\série 1 - 2023\pci - programação i\campeonato\times.c
+	"camp_structs.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
